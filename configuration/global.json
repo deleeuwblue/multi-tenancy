@@ -1,6 +1,6 @@
 {
   "IBM_CLOUD": {
-    "RESOURCE_GROUP": "default",
+    "RESOURCE_GROUP": "multi-tenancy",
     "REGION": "eu-de"
   },
   "REGISTRY": {
